@@ -1,4 +1,4 @@
-# December–January holiday batch — 15 Shorts + 15 pins
+# December–January holiday batch — 16 Shorts + 16 pins
 
 Written 2026-11-24. Every fact below is taken from the live page on growersguide.ca (main at `6374692`). Nothing is added that the page does not say.
 
@@ -15,26 +15,28 @@ The Short and the pin for the same page go out on the same day. Time-sensitive p
 | 3 | Sat Nov 28 | Idées cadeaux pour jardiniers | FR |
 | 4 | Sun Nov 29 | Poinsettia care | EN |
 | 5 | Mon Nov 30 | Stocking stuffers | EN |
-| 6 | Tue Dec 1 | Bas de Noël pour jardiniers | FR |
-| 7 | Wed Dec 2 | Amaryllis care | EN |
-| 8 | Thu Dec 3 | December garden tasks | EN |
-| 9 | Fri Dec 4 | Que faire au jardin en décembre | FR |
-| 10 | Sat Dec 5 | Christmas cactus — getting it to bloom | EN |
-| 11 | Sun Dec 6 | Canadian seed catalogues | EN |
-| 12 | Mon Dec 7 | Catalogues de semences | FR |
-| 13 | Tue Dec 8 | January garden tasks | EN |
-| 14 | Wed Dec 9 | Que faire au jardin en janvier | FR |
-| 15 | Thu Dec 10 | Seed starting with grow lights | EN |
+| 6 | Tue Dec 1 | Hoya care in winter | EN |
+| 7 | Wed Dec 2 | Bas de Noël pour jardiniers | FR |
+| 8 | Thu Dec 3 | Amaryllis care | EN |
+| 9 | Fri Dec 4 | December garden tasks | EN |
+| 10 | Sat Dec 5 | Que faire au jardin en décembre | FR |
+| 11 | Sun Dec 6 | Christmas cactus — getting it to bloom | EN |
+| 12 | Mon Dec 7 | Canadian seed catalogues | EN |
+| 13 | Tue Dec 8 | Catalogues de semences | FR |
+| 14 | Wed Dec 9 | January garden tasks | EN |
+| 15 | Thu Dec 10 | Que faire au jardin en janvier | FR |
+| 16 | Fri Dec 11 | Seed starting with grow lights | EN |
 
-**Repeat in January:** re-pin #11–#15 on Jan 2–6. Those five are January pages; Pinterest pins keep surfacing for weeks, and a second pin in season is worth it.
+**Repeat in January:** re-pin #12–#16 on Jan 2–6. Those five are January pages; Pinterest pins keep surfacing for weeks, and a second pin in season is worth it.
 
-### Why these 15
+### Why these 16
 
 - **Holiday plants (4):** poinsettia, Christmas cactus, amaryllis, paperwhites — bought or in bloom in December, and every one has a December problem the page answers.
 - **Gifts (4):** gifts and stocking stuffers, EN and FR — the only window for these is now.
 - **Task pages (4):** December and January, EN and FR — the two months they cover.
 - **Seed catalogues (2):** catalogues arrive and get read in December–January.
 - **Seed shelf (1):** grow lights — the gear people set up in January for February sowing.
+- **Hoya (1, added 2026-11-24):** the #2 earning page on Raptive, with a winter angle (water less, more light, no fertiliser) that fits December.
 
 **Left out this round:** the other ten monthly task pages (out of season), kalanchoe and rosemary (no December hook as strong as the four holiday plants), the seedling heat mat (it rides along inside the grow-light Short and the gift Shorts), low tunnels (spring), gladiolus / snapdragons / hollyhocks (summer flowers). The FR amaryllis and paperwhite pages exist too; they are the natural next batch.
 
@@ -311,7 +313,60 @@ Check the overlay spelling before posting — image models often misspell. If it
 
 ---
 
-## 6. Bas de Noël pour jardiniers — FR
+## 6. Hoya care in winter — EN
+
+**Page:** https://growersguide.ca/houseplants/hoya-care-guide
+
+Added 2026-11-24. This is the #2 earning page on Raptive. The angle is winter: a hoya slows right down from December to February, so the usual mistake is too much water and too much care. Every line below is from the page's "Canadian Winter Care" section, its watering table and its troubleshooting. The page calls the wax plant non-toxic; per the rules, nothing about pets is said here.
+
+### Short
+
+**Script (≈30 s)**
+
+| Time | Picture | Voice / on-screen text |
+|---|---|---|
+| 0–3 s | A hoya vine with soft yellow leaves dropping onto damp soil. | **"Hoya leaves turning yellow this winter?"** |
+| 3–9 s | A finger presses into soil that is still damp. | "Soft yellow leaves on soil that stays damp mean overwatering — the most common way hoyas die in Canada, nearly always in winter." |
+| 9–16 s | Close-up of thick waxy leaves, slightly puckered. A calendar page turns slowly. | "Read the leaves, not the calendar. When it's thirsty, they pucker slightly. From December to February that's about every 3–4 weeks." |
+| 16–22 s | Hands move the pot to a bright south window, a few centimetres back from the glass, away from a heat vent. | "Give it your brightest south or west window, but keep it a few centimetres off the glass and out of the vent's blast." |
+| 22–27 s | A bottle of houseplant food (no label) put away in a cupboard. | "No fertiliser from October to February. A cool, dry rest is one of the more reliable ways to trigger spring flowers." |
+| 27–30 s | Before/after: yellowing vine vs. a glossy green vine on a bright sill. | **"How often are you watering yours right now?"** |
+
+**On-screen text lines**
+1. Yellow leaves this winter?
+2. Soft yellow + damp soil = overwatering
+3. Water when leaves pucker slightly
+4. Dec–Feb: about every 3–4 weeks
+5. Brightest window, a few cm off the glass
+6. No fertiliser Oct–Feb
+7. How often do you water yours?
+
+**Grok prompt**
+> Vertical 9:16 realistic video, 30 seconds, Canadian living room in winter, snow outside, short grey day. Opens on a trailing Hoya carnosa (wax plant) with thick oval leaves, several soft yellow leaves falling onto damp dark potting mix. Close-up of a finger pressing into the damp mix. Close-up of thick waxy green leaves, very slightly puckered. A wall calendar page turns. Hands move the pot to a bright south-facing window, setting it a few centimetres back from the frosty glass, away from a floor heating vent. Hands place a plain unlabelled bottle of plant food into a cupboard and close the door. Final shot: side by side, the yellowing vine and a glossy deep-green hoya trailing from a bright windowsill. Hands only, no faces, no logos, no text.
+
+**Title:** Why your hoya is turning yellow in winter (and what to stop doing)
+
+**Description**
+> In a Canadian winter a hoya needs water only about every 3–4 weeks, no fertiliser until February, and your brightest window a few centimetres back from the glass. Winter overwatering is the leading cause of hoya root rot in Canada.
+> Full care guide: https://growersguide.ca/houseplants/hoya-care-guide
+> AI-generated video.
+
+**Hashtags:** #hoya #hoyacarnosa #waxplant #houseplantcare #canadiangardening
+
+### Pin
+
+**Title:** Hoya Winter Care in Canada: Water Less, More Light, No Fertiliser
+
+**Description:** Hoya winter care in Canada: water only when the leaves pucker slightly, about every 3–4 weeks from December to February, and stop fertilising from October to February. Move it to your brightest south or west window, a few centimetres back from the glass.
+
+**Link:** https://growersguide.ca/houseplants/hoya-care-guide
+
+**Gemini prompt**
+> A healthy trailing Hoya carnosa with thick glossy green leaves and a cluster of pink star-shaped waxy flowers, in a small snug pot on a bright south-facing windowsill, set a little back from frosty glass, snowy Canadian street softly blurred outside, cozy winter light. Text overlay: "HOYA WINTER CARE" and below, smaller: "Water less · more light · no fertiliser". [+ Gemini defaults]
+
+---
+
+## 7. Bas de Noël pour jardiniers — FR
 
 **Page :** https://growersguide.ca/fr/blog/bas-de-noel-jardinier
 
@@ -359,7 +414,7 @@ Check the overlay spelling before posting — image models often misspell. If it
 
 ---
 
-## 7. Amaryllis care — EN
+## 8. Amaryllis care — EN
 
 **Page:** https://growersguide.ca/houseplants/amaryllis-care-guide
 
@@ -409,7 +464,7 @@ Check the overlay spelling before posting — image models often misspell. If it
 
 ---
 
-## 8. December garden tasks — EN
+## 9. December garden tasks — EN
 
 **Page:** https://growersguide.ca/blog/december-garden-tasks-canada
 
@@ -458,7 +513,7 @@ Check the overlay spelling before posting — image models often misspell. If it
 
 ---
 
-## 9. Que faire au jardin en décembre — FR
+## 10. Que faire au jardin en décembre — FR
 
 **Page :** https://growersguide.ca/fr/blog/que-faire-au-jardin-en-decembre
 
@@ -509,7 +564,7 @@ Angle différent de la version anglaise : les plantes d'intérieur qui jaunissen
 
 ---
 
-## 10. Christmas cactus — getting it to bloom — EN
+## 11. Christmas cactus — getting it to bloom — EN
 
 **Page:** https://growersguide.ca/houseplants/how-to-get-christmas-cactus-to-bloom
 
@@ -558,7 +613,7 @@ Angle différent de la version anglaise : les plantes d'intérieur qui jaunissen
 
 ---
 
-## 11. Canadian seed catalogues — EN
+## 12. Canadian seed catalogues — EN
 
 **Page:** https://growersguide.ca/blog/canadian-seed-catalogues
 
@@ -607,7 +662,7 @@ Angle différent de la version anglaise : les plantes d'intérieur qui jaunissen
 
 ---
 
-## 12. Catalogues de semences — FR
+## 13. Catalogues de semences — FR
 
 **Page :** https://growersguide.ca/fr/blog/catalogues-de-semences
 
@@ -656,7 +711,7 @@ Angle différent de la version anglaise : les plantes d'intérieur qui jaunissen
 
 ---
 
-## 13. January garden tasks — EN
+## 14. January garden tasks — EN
 
 **Page:** https://growersguide.ca/blog/january-garden-tasks-canada
 
@@ -705,7 +760,7 @@ Angle différent de la version anglaise : les plantes d'intérieur qui jaunissen
 
 ---
 
-## 14. Que faire au jardin en janvier — FR
+## 15. Que faire au jardin en janvier — FR
 
 **Page :** https://growersguide.ca/fr/blog/que-faire-au-jardin-en-janvier
 
@@ -756,7 +811,7 @@ Angle différent de la version anglaise : ne pas semer trop tôt.
 
 ---
 
-## 15. Seed starting with grow lights — EN
+## 16. Seed starting with grow lights — EN
 
 **Page:** https://growersguide.ca/blog/seed-starting-with-grow-lights
 
